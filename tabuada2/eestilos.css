@@ -1,0 +1,27 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://sme.goiania.go.gov.br/conexaoescola/wp-content/uploads/2022/05/MULTIPLICACAO-e1651890882122.png);
+    color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+footer {
+      color: black;
+      font-style: italic;
+      display: block;
+      position: fixed;
+      width: 100%;
+      bottom: 0vh;
+      left: 0;
+      text-align: center;
+      padding: 15px;
+      }
+
+      .dark-mode {
+        background-image: url(https://static.preparaenem.com/2020/09/multiplicacao.jpg);
+        background: radial-gradient(circle, black);
+        color: rgb(0, 0, 0);
+        }
